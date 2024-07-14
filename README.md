@@ -1,6 +1,6 @@
 # Project Name
 
-todolist
+VueTodo
 
 ## Description
 
